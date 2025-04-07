@@ -1,0 +1,21 @@
+{
+  "name": "pdfqa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.39",
+    "@langchain/core": "^0.3.43",
+    "@langchain/mistralai": "^0.2.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.20",
+    "pdf-parse": "^1.1.1"
+  }
+}
